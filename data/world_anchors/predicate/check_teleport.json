@@ -1,0 +1,24 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "location": {
+      "dimension": "minecraft:overworld"
+    },
+    "flags": {
+      "is_sneaking": true
+    },
+    "equipment": {
+      "offhand": {
+        "items": "minecraft:paper",
+        "count": 1
+      }
+    },
+    "stepping_on": {
+      "dimension": "minecraft:overworld",
+      "block": {
+        "blocks": "#minecraft:redstone_ores"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:redstone_ore",
+        "count": 1
+      },
+      "title": "Setting Roots",
+      "description": "Creating your first World Anchor",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "world_anchors:world_anchors/root",
+    "criteria": {
+      "anchor_placement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

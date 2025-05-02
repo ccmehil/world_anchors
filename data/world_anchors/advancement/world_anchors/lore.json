@@ -1,0 +1,20 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:enchanted_book",
+        "count": 1
+      },
+      "title": "Chronicle",
+      "description": "Congratulations, you have discovered the old ones",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": true
+    },
+    "parent": "world_anchors:world_anchors/traveler",
+    "criteria": {
+      "anchor_placement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

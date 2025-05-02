@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:red_banner",
+      "count": 1
+    },
+    "title": "World Anchors",
+    "description": "Connecting the world through mystical redstone magic.",
+    "background": "minecraft:block/basalt_side",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "anchor_placement": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "function": "world_anchors:helpers/give_lore_book",
+    "experience": 7
+  }
+}

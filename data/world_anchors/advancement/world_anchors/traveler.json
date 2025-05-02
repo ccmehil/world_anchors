@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:ender_pearl",
+        "count": 1
+      },
+      "title": "Traveler",
+      "description": "World Traveler, connecting through World Anchors",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "world_anchors:world_anchors/get_together",
+    "criteria": {
+      "anchor_placement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

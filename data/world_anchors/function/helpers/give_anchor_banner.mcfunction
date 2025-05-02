@@ -1,0 +1,1 @@
+$give @a red_banner[custom_name=[{"text":"$(name)","italic":false}],enchantment_glint_override=true]
