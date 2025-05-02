@@ -1,0 +1,23 @@
+The purpose of this datapack is simple. Create a helper tool for players of Minecraft.
+
+The goal though was to not create an overpowered solution or something that can instantly create havoc but something that lends to game play.
+
+In order to use the system a player will need to do a few things first.
+
+1) Find sugar cane to create paper
+2) Find Iron to create an anvil
+3) Gain experience to name the paper in the anvil with a unique name of the anchor they wish to create (i.e. SmurfyDragon for my base name)
+4) Through books, enchanting or discovery a silk touch pick axe to mine a Redstone Ore without breaking it 
+5) Mine normal redstone or trade with a Cleric villager for it 
+
+The player will then need to place the ore, then the redstone dust on top. Then while holding the named paper in their off hand (shield hand) 
+walk on top of the ore if the dust was already placed or place the dust on top of the ore. This will create the anchor with that name.
+
+Breaking the ore will of course remove the anchor.
+
+Then the player will need to travel the world to the next desitnation and repeat the process with a different named piece of paper. This creates two
+anchor points.
+
+To travel between them the player would walk onto the ore and stand with the named paper of the anchor they wish to teleport to in their off hand (shield hand), and then sneak.
+
+Some additional items added are that chickens will randomly drop feathers in additon to eggs and if you are patient you can smelt rotten flesh from zombies in a furnace.
