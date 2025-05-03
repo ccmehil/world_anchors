@@ -15,9 +15,9 @@ walk on top of the ore if the dust was already placed or place the dust on top o
 
 Breaking the ore will of course remove the anchor.
 
-Then the player will need to travel the world to the next desitnation and repeat the process with a different named piece of paper. This creates two
+Then the player will need to travel the world to the next destination and repeat the process with a different named piece of paper. This creates two
 anchor points.
 
 To travel between them the player would walk onto the ore and stand with the named paper of the anchor they wish to teleport to in their off hand (shield hand), and then sneak.
 
-Some additional items added are that chickens will randomly drop feathers in additon to eggs and if you are patient you can smelt rotten flesh from zombies in a furnace.
+Some additional items added are that chickens will randomly drop feathers in addition to eggs and if you are patient you can smelt rotten flesh from zombies in a furnace.
